@@ -1,6 +1,6 @@
 # learing-typeScript
-
-> 유데미 TypeScript 마스터 with Webpack &amp; React 강의에서 학습한 내용을 기록하는곳입니다.
+유데미 TypeScript 마스터 with Webpack &amp; React 강의에서 학습한 내용을 기록하는곳입니다.</br>
+### [TypeScript 마스터 with Webpack & React](https://www.udemy.com/course/typescript-with-webpack-react/)
 
 - [설치및설정](https://github.com/jaeh0lee/learing-typeScript/tree/main/%EC%84%A4%EC%B9%98%EB%B0%8F%EC%84%A4%EC%A0%95)
 
