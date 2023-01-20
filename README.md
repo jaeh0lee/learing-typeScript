@@ -9,3 +9,6 @@
 - [객체타입](https://github.com/jaeh0lee/learing-typeScript/tree/main/%EA%B0%9D%EC%B2%B4%20%ED%83%80%EC%9E%85)
 - [배열타입](https://github.com/jaeh0lee/learing-typeScript/tree/main/%EB%B0%B0%EC%97%B4%ED%83%80%EC%9E%85)
 - [유니온타입](https://github.com/jaeh0lee/learing-typeScript/tree/main/%EC%9C%A0%EB%8B%88%EC%98%A8%ED%83%80%EC%9E%85)
+- [Tuple과 Enum](<https://github.com/jaeh0lee/learing-typeScript/tree/main/%ED%8A%9C%ED%94%8C(Tuple)%EA%B3%BCEnum>)
+- [인터페이스](https://github.com/jaeh0lee/learing-typeScript/tree/main/%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4)
+
