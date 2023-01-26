@@ -1,5 +1,7 @@
 # learing-typeScript
+
 유데미 TypeScript 마스터 with Webpack &amp; React 강의에서 학습한 내용을 기록하는곳입니다.</br>
+
 ### [TypeScript 마스터 with Webpack & React](https://www.udemy.com/course/typescript-with-webpack-react/)
 
 - [설치및설정](https://github.com/jaeh0lee/learing-typeScript/tree/main/%EC%84%A4%EC%B9%98%EB%B0%8F%EC%84%A4%EC%A0%95)
@@ -11,4 +13,7 @@
 - [유니온타입](https://github.com/jaeh0lee/learing-typeScript/tree/main/%EC%9C%A0%EB%8B%88%EC%98%A8%ED%83%80%EC%9E%85)
 - [Tuple과 Enum](<https://github.com/jaeh0lee/learing-typeScript/tree/main/%ED%8A%9C%ED%94%8C(Tuple)%EA%B3%BCEnum>)
 - [인터페이스](https://github.com/jaeh0lee/learing-typeScript/tree/main/%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4)
-
+- [타입스크립트 컴파일러](https://github.com/jaeh0lee/learing-typeScript/tree/main/%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC)
+- [타입스크립트로 Dom을 조작하여 간단한 프로젝트 제작](https://github.com/jaeh0lee/learing-typeScript/tree/main/MINIPROJECT)
+- [자바스크립트 클래스 복습](https://github.com/jaeh0lee/learing-typeScript/tree/main/javascript%20Class)
+- [타입스크립트 클래스](https://github.com/jaeh0lee/learing-typeScript/tree/main/typescript%20Class)
