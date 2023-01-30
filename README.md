@@ -17,3 +17,5 @@
 - [타입스크립트로 Dom을 조작하여 간단한 프로젝트 제작](https://github.com/jaeh0lee/learing-typeScript/tree/main/MINIPROJECT)
 - [자바스크립트 클래스 복습](https://github.com/jaeh0lee/learing-typeScript/tree/main/javascript%20Class)
 - [타입스크립트 클래스](https://github.com/jaeh0lee/learing-typeScript/tree/main/typescript%20Class)
+- [제네릭](https://github.com/jaeh0lee/learing-typeScript/tree/main/%EC%A0%9C%EB%84%A4%EB%A6%AD)
+- [타입좁히기](https://github.com/jaeh0lee/learing-typeScript/tree/main/%ED%83%80%EC%9E%85%EC%A2%81%ED%9E%88%EA%B8%B0)
