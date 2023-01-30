@@ -210,7 +210,7 @@ function getFarmAnimalSound(animal: FarmAnimal) {
       return "ME!!!";
     default:
       // 디폴트를 추가하면 절대로 여기까지 내려오지 않게 할수 있습니다. 모든 case가 올바르게 처리되면 여기까지 오지 않는다.
-      const shouldNeverGetHere: never = animal;
+    //   const shouldNeverGetHere: never = animal;
       return shouldNeverGetHere;
     // never 타입은 어디든 할당 가능하지만 어떤 타입도 never에 할당할수 없습니다.
   }
