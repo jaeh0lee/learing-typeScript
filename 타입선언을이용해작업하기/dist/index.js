@@ -32,6 +32,7 @@ const axios_1 = __importDefault(require("axios"));
 //   console.log(user.email);
 //   console.log(user.phone);
 // }
+// axios 연습
 axios_1.default.get("https://jsonplaceholder.typicode.com/users/").then((res) => {
     console.log("얏호 성공");
     res.data.forEach(jaeho);

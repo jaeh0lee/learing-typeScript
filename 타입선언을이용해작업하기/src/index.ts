@@ -56,6 +56,7 @@ interface User {
 //   console.log(user.phone);
 // }
 
+// axios 연습
 axios.get<User[]>("https://jsonplaceholder.typicode.com/users/").then((res) => {
   console.log("얏호 성공");
   res.data.forEach(jaeho);
