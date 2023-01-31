@@ -19,4 +19,5 @@
 - [타입스크립트 클래스](https://github.com/jaeh0lee/learing-typeScript/tree/main/typescript%20Class)
 - [제네릭](https://github.com/jaeh0lee/learing-typeScript/tree/main/%EC%A0%9C%EB%84%A4%EB%A6%AD)
 - [타입좁히기](https://github.com/jaeh0lee/learing-typeScript/tree/main/%ED%83%80%EC%9E%85%EC%A2%81%ED%9E%88%EA%B8%B0)
-- [타입선언을 이용해 작업하기](https://github.com/jaeh0lee/learing-typeScript/tree/main/%ED%83%80%EC%9E%85%EC%84%A0%EC%96%B8%EC%9D%84%EC%9D%B4%EC%9A%A9%ED%95%B4%EC%9E%91%EC%97%85%ED%95%98%EA%B8%B0) -[모듈](https://github.com/jaeh0lee/learing-typeScript/tree/main/%EB%AA%A8%EB%93%88)
+- [타입선언을 이용해 작업하기](https://github.com/jaeh0lee/learing-typeScript/tree/main/%ED%83%80%EC%9E%85%EC%84%A0%EC%96%B8%EC%9D%84%EC%9D%B4%EC%9A%A9%ED%95%B4%EC%9E%91%EC%97%85%ED%95%98%EA%B8%B0)
+- [모듈](https://github.com/jaeh0lee/learing-typeScript/tree/main/%EB%AA%A8%EB%93%88)
